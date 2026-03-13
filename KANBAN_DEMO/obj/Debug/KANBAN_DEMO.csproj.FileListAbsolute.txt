@@ -1,0 +1,14 @@
+C:\techsoft\repos\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\techsoft\repos\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\techsoft\repos\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\techsoft\repos\WpfApp1\WpfApp1\obj\Debug\KANBAN_DEMO.csproj.AssemblyReference.cache
+C:\techsoft\repos\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\techsoft\repos\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\techsoft\repos\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\techsoft\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\techsoft\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\techsoft\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\techsoft\repos\WpfApp1\WpfApp1\obj\Debug\KANBAN_DEMO.csproj.GenerateResource.cache
+C:\techsoft\repos\WpfApp1\WpfApp1\obj\Debug\KANBAN_DEMO.csproj.CoreCompileInputs.cache
+C:\techsoft\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\techsoft\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
